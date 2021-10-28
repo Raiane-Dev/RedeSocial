@@ -8,7 +8,7 @@
 		$corpo.="<hr>";
 	}
 	$info = array('assunto'=>$assunto,'corpo'=>$corpo);
-	$mail = new Email('vps.dankicode.com','raiane.dev@gmail.com','gaivabeach','Raiane');
+	$mail = new Email('MEU SERVER','MEU EMAIL','MINHA SENHA','Raiane');
 	$mail->addAdress('contato@dankicode.com','Guilherme');
 	$mail->formatarEmail($info);
 	if($mail->enviarEmail()){
