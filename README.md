@@ -5,8 +5,8 @@
 
 <ul>
 <li>
-  <strong>Languages: </strong><br />
-  <i>PHP, JavaScript e SQL.</i>
+  <strong>Languages: <br /></strong>
+  <i>PHP e SQL.</i>
  </li>
 
 <li>
@@ -17,6 +17,17 @@
 <li>
   <strong>Library: <br /></strong>
   <i>jQuery e PHPMailer.</i>
+</li>
+
+<li>
+  <strong>Style: <br /></strong>
+  <i>Cascading Style Sheets.</i>
+</li>
+
+<li>
+  <strong>Markup Language: <br /></strong>
+  <i>HTML.</i>
+</li>
 </ul>
 
 <h5>Agradeço a quem ficou até aqui, até logo.</h5>
